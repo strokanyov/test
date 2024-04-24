@@ -6,10 +6,11 @@ jobs:
   ui-tests:
     runs-on: ubuntu-latest
 
+
     steps:
       - uses: actions/checkout@v2
-      - name: Run UI-test via docker-compose
-         env:
+      - name: Run UI-Tests via docker-compose
+        env:
           LOGIN: ${{ secrets.LOGIN }}
           PASSWORD: ${{ secrets.PASSWORD }}
         run: |
