@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Apr 24 15:26:03 GMT 2024","Wed Apr 24 15:26:10 GMT 2024","6678","tests","feature_profile_test","TestProfileFeature","","","Change profile name",""
+"passed","Wed Apr 24 15:28:50 GMT 2024","Wed Apr 24 15:28:57 GMT 2024","6915","tests","feature_profile_test","TestProfileFeature","","","Change profile name",""
